@@ -80,6 +80,14 @@ Em cada ciclo, o *script* regista no ficheiro `jammer_log_<data>_<hora>.csv` o m
 
 ---
 
+## 📄 Licença
+
+Este projeto está licenciado ao abrigo da licença Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+É livre de partilhar e adaptar o material para qualquer fim não comercial, desde que seja dada a devida atribuição ao autor. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc/4.0/deed.pt ou consulte o ficheiro LICENSE.md incluído neste repositório.
+
+---
+
 ## 👤 Autoria
 
 **Tiago da Silva Matos** — Universidade do Minho  
