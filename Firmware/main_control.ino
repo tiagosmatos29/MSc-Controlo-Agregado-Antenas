@@ -6,7 +6,7 @@
  *               em Ambientes Ciríticos Seguras
  * Módulo:       5-Element Beamforming (ULA de 5 elementos)
  * Autores:      Tiago da Silva Matos
- *               Hugo Daniel Costa Dinis
+ *               Hugo Daniel da Costa Dinis
  * ----------------------------------------------------------------------------
  * Descrição:    Firmware para microcontrolador (C++/Arduino) destinado ao
  *               controlo dinâmico via SPI de phase shifters digitais.
