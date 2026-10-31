@@ -19,8 +19,8 @@ A validação experimental do código incidiu sobre o subsistema GPS L1 (agregad
 ## 🛠️ Hardware
 
 * Agregado de 5 elementos; o elemento central é a referência de fase e os restantes quatro têm um controlador de fase digital PE44820 (pSemi), programado por SPI.
-* Microcontrolador Arduino (Arduino Mega 2560 R3).
-* SDR (HackRF One).
+* Microcontrolador Arduino.
+* SDR.
 
 ---
 
